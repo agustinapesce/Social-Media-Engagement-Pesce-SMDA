@@ -1,0 +1,25 @@
+Page or Account URL,List
+https://www.facebook.com/thedispatchinc,USA Media Right - SMDA Project
+https://www.facebook.com/epochtimes,USA Media Right - SMDA Project
+https://www.facebook.com/FoxBusiness,USA Media Right - SMDA Project
+https://www.facebook.com/NYPost,USA Media Right - SMDA Project
+https://www.facebook.com/ThePostMillennial,USA Media Right - SMDA Project
+https://www.facebook.com/Reason.Magazine,USA Media Right - SMDA Project
+https://www.facebook.com/WSJ,USA Media Right - SMDA Project
+https://www.facebook.com/WashingtonExaminer,USA Media Right - SMDA Project
+https://www.facebook.com/TheWashingtonTimes,USA Media Right - SMDA Project
+https://www.facebook.com/The.American.Conservative,USA Media Right - SMDA Project
+https://www.facebook.com/americanspectator,USA Media Right - SMDA Project
+https://www.facebook.com/Breitbart,USA Media Right - SMDA Project
+https://www.facebook.com/TheBlaze,USA Media Right - SMDA Project
+https://www.facebook.com/cbnonline,USA Media Right - SMDA Project
+https://www.facebook.com/DailyCaller,USA Media Right - SMDA Project
+https://www.facebook.com/DailyMail,USA Media Right - SMDA Project
+https://www.facebook.com/DailyWire,USA Media Right - SMDA Project
+https://www.facebook.com/FoxNews,USA Media Right - SMDA Project
+https://www.facebook.com/fdrlst,USA Media Right - SMDA Project
+https://www.facebook.com/theijr,USA Media Right - SMDA Project
+https://www.facebook.com/nationalreview,USA Media Right - SMDA Project
+https://www.facebook.com/newsmax,USA Media Right - SMDA Project
+https://www.facebook.com/FreeBeacon,USA Media Right - SMDA Project
+https://www.facebook.com/OneAmericaNewsNetwork,USA Media Right - SMDA Project
